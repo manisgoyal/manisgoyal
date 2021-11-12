@@ -2,7 +2,7 @@
 - 👀 I’m interested in App Dev and Web Dev
 - 🌱 I’m currently learning App Dev and Backend
 - :mortar_board: I'm currently pursuing Bachelor in Computer Science and Engineering
-- 📫 You could mail me at <a href = "mailto://manishgoyal016@gmail.com">manishgoyal016@gmail.com</a> to reach out to me.
+- 📫 You could mail me at <a href = "mailto://manishgoyal016@gmail.com">manishgoyal016@gmail.com</a> or <a href = "mailto://manish.goyal2020@vitstudent.ac.in">manish.goyal2020@vitstudent.ac.in</a> to reach out to me.
 
 <!---
 manisgoyal/manisgoyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
