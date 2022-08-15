@@ -11,7 +11,7 @@
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=manisgoyal&theme=tokyonight" />
 </br></br>
 - 🌱 I’m currently working on apps and web projects.</br>
-[![Currently working on](https://github-readme-stats.vercel.app/api/pin/?username=manisgoyal&repo=buzzy&theme=dracula)](https://github.com/manishgoyal/buzzy)
+[![Currently working on](https://github-readme-stats.vercel.app/api/pin/?username=manisgoyal&repo=buzzy&theme=dracula)](https://github.com/manisgoyal/buzzy)
 </br>This is the project I am currently working on. It is a app that works as a buzzer for competitions. It is connected to remote server and works on Firebase as backend.
 </br>
 Another project I am currently working on is an Interview management System which generates a final output as an Excel sheet. Will be publicing the repo after I link both the backend and frontend.
